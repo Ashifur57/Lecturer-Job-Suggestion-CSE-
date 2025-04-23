@@ -1,6 +1,6 @@
-# Lecturer-Job-Suggestion-CSE
-1)	Object-Oriented Programming (OOP)
-a)	Class & Object
+# Lecturer-Job-Suggestion-CSE<br>
+1)	Object-Oriented Programming (OOP)<br>
+a)	Class & Object<br>
 b)	Feature of OOP (Data Abstraction, Encapsulation, Polymorphism, Inheritance)
 c)	Access Specifiers (public, private, protected)
 d)	Constructors and Destructors
